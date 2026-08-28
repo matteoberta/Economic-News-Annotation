@@ -14,10 +14,9 @@ A sample of the annotated dataset, containing:
 
 | Field | Description |
 |---|---|
-| `article_id` | Persistent article identifier |
+| `article_id` | Article identifier on the Factiva database |
 | `publication` | Source publication |
 | `publication_date` | Publication date |
-| `factiva_id` | Factiva database identifier |
 | `sentiment` | Sentiment score, 1–5 ordinal scale (0.5 increments); 1 = very negative, 5 = very positive |
 | `topic` | Dominant topic category (see below) |
 
