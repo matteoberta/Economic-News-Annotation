@@ -46,12 +46,25 @@ This dataset is released under [**CC BY-NC-SA 4.0**](https://creativecommons.org
 If you use this dataset, please cite:
 
 ```bibtex
-@inproceedings{petrocelli2026experts,
-  title     = {From Experts to Open-Weight Models: a Validated {LLM} Pipeline for Institutional Economic News Annotation},
-  author    = {Petrocelli, Michele and Rollin, Andrea and Berta, Matteo and Zafonte, Francesca and Monaco, Simone and Apiletti, Daniele and Cerquitelli, Tania},
-  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track},
-  year      = {2026},
-  note      = {[TODO: fill in venue location, pages, publisher, DOI/URL once the proceedings are published]}
+@inproceedings{petrocelli-etal-2026-from-experts,
+    title = "From Experts to Open-Weight Models: a Validated {LLM} Pipeline for Institutional Economic News Annotation",
+    author = "Petrocelli, Michele  and
+      Rollin, Andrea  and
+      Berta, Matteo  and
+      Zafonte, Francesca  and
+      Monaco, Simone  and
+      Apiletti, Daniele  and
+      Cerquitelli, Tania",
+    editor = "TODO",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "TODO",
+    doi = "TODO",
+    pages = "TODO",
+    ISBN = "TODO"
 }
 ```
 
